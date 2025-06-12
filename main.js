@@ -19,7 +19,7 @@ const renderer = new THREE.WebGLRenderer({
 renderer.setSize(window.innerWidth, window.innerHeight);
 
 // 加载纹理
-const texture = new THREE.TextureLoader().load("/iChannel0.png");
+const texture = new THREE.TextureLoader().load("./iChannel0.png");
 
 // uniforms
 const uniforms = {
