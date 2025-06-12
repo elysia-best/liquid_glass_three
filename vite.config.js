@@ -1,0 +1,11 @@
+import { defineConfig } from "vite";
+
+export default defineConfig({
+  assetsInclude: ["**/*.glsl"],
+  server: {
+    open: true,
+  },
+  build: {
+    outDir: "docs",
+  },
+});
