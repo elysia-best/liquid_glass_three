@@ -93,3 +93,5 @@ gl_FragColor = fragColor;
 ---
 
 > **提示**：如需更高质量的模糊，可增加采样次数，但会影响性能。
+
+个人微信；chenhaiqiang32,合作可私
